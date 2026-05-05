@@ -79,9 +79,9 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-lg md:text-xl text-gray-400 max-w-3xl mx-auto mb-10"
           >
-            Backend Engineer specializing in scalable SaaS, POS systems, and AI-powered architectures.
+            I build category-defining products for teams that prefer outcomes over excuses.
             <br />
-            Building for scale, designed for maintainability.
+            Usually copied in six months, still unmatched in eighteen.
           </motion.p>
 
           {/* CTA Buttons */}

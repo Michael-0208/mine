@@ -40,9 +40,7 @@ export function Navbar() {
           {/* Logo */}
           <motion.div whileHover={{ scale: 1.05 }}>
             <Link to="/" className="text-xl text-white block" style={{ fontWeight: 700 }}>
-              <span className="bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
-                Backend.Engineer
-              </span>
+              <span className="bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">Built by Vikash</span>
             </Link>
           </motion.div>
 

@@ -7,9 +7,7 @@ export function SiteFooter() {
       <div className="relative z-10 max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="text-center md:text-left">
-            <p className="text-gray-400 text-sm">
-              © 2026 Backend Engineer. Built with React & Tailwind CSS.
-            </p>
+            <p className="text-gray-400 text-sm">© 2026 Built by Vikash. Built with React & Tailwind CSS.</p>
           </div>
           <div className="flex gap-6">
             <Link to="/#about" className="text-gray-400 hover:text-purple-400 transition-colors text-sm">
