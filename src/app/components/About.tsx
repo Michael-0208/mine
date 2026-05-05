@@ -10,7 +10,7 @@ export function About() {
   const highlights = [
     {
       icon: Code2,
-      label: "5+ Years",
+      label: "7+ Years",
       description: "Building production systems"
     },
     {
@@ -56,7 +56,7 @@ export function About() {
             Not your average developer
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto leading-relaxed">
-            I don't just write code—I architect systems that scale. With 5+ years focused on backend engineering,
+            I don't just write code-I architect systems that scale. With 7+ years focused on backend engineering,
             I specialize in building the complex, business-critical systems that power modern SaaS platforms.
           </p>
         </motion.div>

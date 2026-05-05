@@ -11,22 +11,22 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "contact@example.com",
-      href: "mailto:contact@example.com",
+      value: "vikash.dangi84@gmail.com",
+      href: "mailto:vikash.dangi84@gmail.com",
       color: "from-purple-500 to-pink-500"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Connect on LinkedIn",
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/vikash-dangi-fs0208/",
       color: "from-cyan-500 to-blue-500"
     },
     {
       icon: Github,
       label: "GitHub",
       value: "View my code",
-      href: "https://github.com",
+      href: "https://github.com/Michael-0208",
       color: "from-purple-500 to-violet-500"
     }
   ];

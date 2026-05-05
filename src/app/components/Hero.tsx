@@ -114,7 +114,7 @@ export function Hero() {
             className="flex gap-6 justify-center"
           >
             <a
-              href="https://github.com"
+              href="https://github.com/Michael-0208"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 group"
@@ -122,7 +122,7 @@ export function Hero() {
               <Github className="w-5 h-5 text-gray-400 group-hover:text-purple-400 transition-colors" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/vikash-dangi-fs0208/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 group"
@@ -130,7 +130,7 @@ export function Hero() {
               <Linkedin className="w-5 h-5 text-gray-400 group-hover:text-cyan-400 transition-colors" />
             </a>
             <a
-              href="mailto:contact@example.com"
+              href="mailto:vikash.dangi84@gmail.com"
               className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 group"
             >
               <Mail className="w-5 h-5 text-gray-400 group-hover:text-purple-400 transition-colors" />
